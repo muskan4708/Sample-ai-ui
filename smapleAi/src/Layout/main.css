@@ -1,0 +1,16 @@
+/* User Initials Styles */
+.user-initials {
+  cursor: pointer;
+  display: flex;
+  background: rgb(230, 234, 245);
+  justify-content: center;
+  align-items: center;
+  min-height: 40px;
+  min-width: 40px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.12px;
+  color: black;
+}
